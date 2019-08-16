@@ -38,7 +38,7 @@
     "compression": "^1.6.1",
     "cors": "^2.6.0",
     "crc": "^3.4.0",
-    "css-loader": "^0.23.1",
+    "css-loader": "^0.28.11",
     "diacritics": "^1.2.3",
     "eslint": "^2.2.0",
     "eslint-config-standard": "^5.3.1",
