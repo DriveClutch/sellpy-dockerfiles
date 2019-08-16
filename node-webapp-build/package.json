@@ -86,7 +86,7 @@
     "react-addons-pure-render-mixin": "^0.14.0",
     "react-addons-transition-group": "^0.14.0",
     "react-addons-update": "^0.14.0",
-    "react-bootstrap": "^0.28.3",
+    "react-bootstrap": "^0.32.4",
     "react-bootstrap-star-rating": "^3.5.5-alpha.0.3",
     "react-document-title": "^2.0.0",
     "react-dom": "^0.14.7",
